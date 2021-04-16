@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Un super blog statique de démo avec Hugo</title>
-    <link>http://example.org/</link>
+    <link>/</link>
     <description>Recent content on Un super blog statique de démo avec Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Apr 2021 18:27:31 +0200</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Apr 2021 18:27:31 +0200</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Troisieme Billet</title>
-      <link>http://example.org/posts/troisieme-billet/</link>
+      <link>/posts/troisieme-billet/</link>
       <pubDate>Fri, 16 Apr 2021 18:27:31 +0200</pubDate>
       
-      <guid>http://example.org/posts/troisieme-billet/</guid>
+      <guid>/posts/troisieme-billet/</guid>
       <description>Premier billet 3 premier sous titre 3 premier sous sous titre 3 Bon là, ce n&amp;rsquo;est plus trop crédible.</description>
     </item>
     
     <item>
       <title>Deuxieme Billet</title>
-      <link>http://example.org/posts/deuxieme-billet/</link>
+      <link>/posts/deuxieme-billet/</link>
       <pubDate>Fri, 16 Apr 2021 18:27:25 +0200</pubDate>
       
-      <guid>http://example.org/posts/deuxieme-billet/</guid>
+      <guid>/posts/deuxieme-billet/</guid>
       <description>Premier billet 2 premier sous titre 2 premier sous sous titre 2 et toujours un peu de blabla pour faire croire que je bosse.</description>
     </item>
     
     <item>
       <title>Premier Billet</title>
-      <link>http://example.org/posts/premier-billet/</link>
+      <link>/posts/premier-billet/</link>
       <pubDate>Fri, 16 Apr 2021 18:27:16 +0200</pubDate>
       
-      <guid>http://example.org/posts/premier-billet/</guid>
+      <guid>/posts/premier-billet/</guid>
       <description>Premier billet 1 premier sous titre 1 premier sous sous titre 1 et quand même un peu de blabla pour faire croire que je bosse.</description>
     </item>
     
