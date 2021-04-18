@@ -1,3 +1,6 @@
 [submodule "02-staticHugo/site-statique-with-HUGO/themes/ananke"]
 	path = 02-staticHugo/site-statique-with-HUGO/themes/ananke
 	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "02-storageStaticHugo/site-statique-with-HUGO/themes/ananke"]
+	path = 02-storageStaticHugo/site-statique-with-HUGO/themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
